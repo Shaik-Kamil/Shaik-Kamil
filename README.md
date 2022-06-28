@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-kamil&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-kamil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-kamil" alt="shaik-kamil" /></a> </p>
-[coding](https://user-images.githubusercontent.com/107490051/176250037-e05f5711-2207-441f-84c5-c8bae17a436a.png)
 
+<img src= ="https://user-images.githubusercontent.com/107490051/176250037-e05f5711-2207-441f-84c5-c8bae17a436a.png" alt = "Coding") />
 
 - 💬 Ask me about **JS**
 
